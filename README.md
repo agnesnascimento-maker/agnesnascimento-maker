@@ -1,16 +1,14 @@
-## Hello World, I'm Agnes, be very welcome 👋
+## Olá, mundo! Eu sou a Agnes, seja muito bem-vindo(a) 👋
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agnesnascimento-maker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnesnascimento-maker&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agnesnascimento-maker&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnesnascimento-maker&layout=compact&langs_count=6&theme=dark&locale=pt-br"/>
 </div>
 
 <div style="display: inline_block"><br>
-
   <img align="center" alt="HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  
+  <img align="center" alt="Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
 <br>
